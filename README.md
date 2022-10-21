@@ -1,1 +1,35 @@
-# work-directory
+- ~/work 个人工作目录
+  - git
+    - qs-t 桥思科技
+      - awisps-front 人工智能安全防护系统
+        - front-v1 前端
+      - cqry 重庆人影
+        - new-big-front
+        - ry20210415
+        - ryFront
+        - ryFront4.0
+        - sitian-weather-modification 四天项目独立出来的模块
+      - cqyjqx 应急气象
+        - front-v1 前端
+      - cq-yy-sn-bigdata 酉阳三农大数据平台
+        - yysn-forepart 前端
+      - sc-sn-zyqxfw 遂宁智慧气象
+        - dl-font-v1
+        - font-v1
+        - login-front-v1 业务平台和运管中心登录
+        - manage-front-v1
+        - miniapp-h5-v1 小程序h5
+        - miniprogram-v1 小程序壳
+        - opsm-front-v1 运管中心
+        - platform-front-v1 业务平台
+      - shared_class_library 共享项目
+        - qssoft-vue-ui
+      - tianShu 天枢
+        - font_unit
+        - font_v2
+        - front
+        - front_v3
+      - ts-screen 重庆信息中心-大数据基础云平台
+        - front
+    - rdc-cq 气象局
+     - fourday-home-frontend 四天项目
